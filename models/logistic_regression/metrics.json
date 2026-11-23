@@ -1,0 +1,10 @@
+{
+  "model": "Logistic Regression",
+  "cv_roc_auc_mean": 0.8727023693961362,
+  "cv_roc_auc_std": 0.02268062748135698,
+  "cv_f1_mean": 0.8161874528104496,
+  "cv_accuracy_mean": 0.7921584850156279,
+  "test_accuracy": 0.8043478260869565,
+  "test_f1": 0.8285714285714286,
+  "test_roc_auc": 0.8983739837398373
+}

@@ -1,0 +1,10 @@
+{
+  "model": "Random Forest",
+  "cv_roc_auc_mean": 0.8598379353257402,
+  "cv_roc_auc_std": 0.026853945634779625,
+  "cv_f1_mean": 0.8192724102746987,
+  "cv_accuracy_mean": 0.7962125390696819,
+  "test_accuracy": 0.8097826086956522,
+  "test_f1": 0.8372093023255814,
+  "test_roc_auc": 0.8993304638928743
+}
